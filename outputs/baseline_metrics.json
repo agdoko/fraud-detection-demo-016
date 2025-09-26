@@ -1,0 +1,13 @@
+{
+  "accuracy": 0.9755275446789088,
+  "precision": 0.06097560975609756,
+  "recall": 0.9183673469387755,
+  "f1_score": 0.11435832274459974,
+  "roc_auc": 0.9720940870017112,
+  "false_positives": 1386,
+  "false_negatives": 8,
+  "true_positives": 90,
+  "true_negatives": 55478,
+  "total_cost": 14660.0,
+  "training_time": 1.022848129272461
+}
